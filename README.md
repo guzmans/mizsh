@@ -31,8 +31,7 @@ exec zsh
 🎨 Fonts (Required for Themes)
 
 If you are using a theme like Powerlevel10k or any Oh My Zsh theme that uses special icons,
-you need to install a Nerd Font (recommended: MesloLGS Nerd Font
-).
+you need to install a Nerd Font (recommended: MesloLGS Nerd Font - https://github.com/ryanoasis/nerd-fonts).
 
 Download and install the font on your system.
 
